@@ -10,7 +10,7 @@ This is a micro-frontend project combining three technologies: React, Angular, a
 ## Usage
 
 1. Clone this project
-2. Run React child application: `cd /react-child` then `npm install` then `npm start`
-3. Run Angular child application: `cd /angular-child` then `npm install` then `npm start`
-4. Run Vue child application: `cd /vue-child` then `npm install` then `npm start`
-5. Run Parent application: `cd /app-shell` then `npm install` then `npm start`
+2. Run React child application: `cd /react-child` then `yarn install` then `yarn start`
+3. Run Angular child application: `cd /angular-child` then `yarn install` then `yarn start`
+4. Run Vue child application: `cd /vue-child` then `yarn install` then `yarn start`
+5. Run Parent application: `cd /app-shell` then `npm install` then `yarn start`
